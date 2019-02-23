@@ -1,4 +1,4 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://nafiesl.github.io/learning-hugo"
 title = "Hugo with Kiera Theme"
 copyright = "Copyright &copy; 2019 - Nafies Luthfi"
 canonifyurls = true

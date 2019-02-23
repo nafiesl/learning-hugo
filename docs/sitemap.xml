@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.org/about/</loc>
+    <loc>https://nafiesl.github.io/learning-hugo/about/</loc>
     <lastmod>2019-02-23T21:18:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/categories/</loc>
+    <loc>https://nafiesl.github.io/learning-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/</loc>
+    <loc>https://nafiesl.github.io/learning-hugo/</loc>
     <lastmod>2019-02-23T21:18:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/</loc>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   
