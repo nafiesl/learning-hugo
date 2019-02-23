@@ -1,3 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://www.example.org/"
+title = "Hugo with Kiera Theme"
+copyright = "Copyright &copy; 2019 - Nafies Luthfi"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Nafies Luthfi"
+    github = "nafiesl"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = "nafiesl"
+    instagram = ""
+
+[params]
+    tagline = "A Hugo theme for creative and technical writing"
+
+
