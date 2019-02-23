@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Hugo with Kiera Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Nafies Luthfi</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 21:02:40 +0800</lastBuildDate>
     
 	<atom:link href="https://nafiesl.github.io/learning-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://nafiesl.github.io/learning-hugo/tags/getting-started/</link>
+      <pubDate>Sat, 23 Feb 2019 21:02:40 +0800</pubDate>
+      
+      <guid>https://nafiesl.github.io/learning-hugo/tags/getting-started/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
