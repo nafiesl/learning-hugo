@@ -13,13 +13,94 @@
   </url>
   
   <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/the-figure-shortcode/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/post-with-featured-image/</loc>
+    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/style-guide/</loc>
+    <lastmod>2017-11-14T10:57:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/image-content/</loc>
+    <lastmod>2017-11-14T08:08:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/posts/migrate-from-jekyll/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nafiesl.github.io/learning-hugo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/demo/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nafiesl.github.io/learning-hugo/tags/getting-started/</loc>
     <lastmod>2019-02-23T21:02:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,7 +118,25 @@
   
   <url>
     <loc>https://nafiesl.github.io/learning-hugo/tags/</loc>
-    <lastmod>2019-02-23T21:02:40+08:00</lastmod>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nafiesl.github.io/learning-hugo/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
