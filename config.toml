@@ -1,10 +1,10 @@
-baseurl = "https://nafiesl.github.io/learning-hugo"
-title = "Hugo with Kiera Theme"
-copyright = "Copyright &copy; 2019 - Nafies Luthfi"
+baseurl = "https://nafiesl.github.io/learning-hugo/"
+title = "Nafies Luthfi"
+copyright = "Copyright &copy; 2017 - Nafies Luthfi"
 canonifyurls = true
 theme = "kiera"
 
-paginate = 3
+paginate = 15
 
 summaryLength = 30
 enableEmoji = true
@@ -20,7 +20,7 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Life will always feel wonderful if we always think positively."
 
 [[menu.main]]
     name = "Home" #Name in the navigation bar

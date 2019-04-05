@@ -6,8 +6,6 @@ tags = ["Getting Started"]
 categories = []
 +++
 
-# First post
-
 Hello Hugo world! 
 
 This is the first post on hugo site. No more excuses for having no blog or documentation now!
