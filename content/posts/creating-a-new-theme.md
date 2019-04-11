@@ -1,9 +1,10 @@
-+++
-author = "Michael Henderson"
-date = 2014-09-28
-title = "Creating a New Theme"
-series = "Hugo 101"
-+++
+---
+author: Michael Henderson
+date: 2014-09-28
+date: 2014-09-28T21:02:40+08:00
+title: Creating a New Theme
+series: "Hugo 101"
+---
 
 ## Introduction
 
