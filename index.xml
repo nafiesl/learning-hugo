@@ -83,7 +83,7 @@ For example:
     <item>
       <title>Creating a New Theme</title>
       <link>https://nafiesl.github.io/learning-hugo/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 28 Sep 2014 21:02:40 +0800</pubDate>
       
       <guid>https://nafiesl.github.io/learning-hugo/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
