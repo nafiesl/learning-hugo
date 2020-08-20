@@ -30,3 +30,6 @@ pygmentsCodeFences = true
     name = "Posts"
     weight = 20
     url = "/posts/"
+
+[permalinks]
+  posts = "/:slug/"
